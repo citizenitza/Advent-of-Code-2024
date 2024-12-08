@@ -1,0 +1,14 @@
+C:\Users\DanielM\Desktop\aoc\2024\2024_day_08\2024_day_08\obj\Debug\net8.0\2024_day_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielM\Desktop\aoc\2024\2024_day_08\2024_day_08\obj\Debug\net8.0\2024_day_08.AssemblyInfoInputs.cache
+C:\Users\DanielM\Desktop\aoc\2024\2024_day_08\2024_day_08\obj\Debug\net8.0\2024_day_08.AssemblyInfo.cs
+C:\Users\DanielM\Desktop\aoc\2024\2024_day_08\2024_day_08\obj\Debug\net8.0\2024_day_08.csproj.CoreCompileInputs.cache
+C:\Users\DanielM\Desktop\aoc\2024\2024_day_08\2024_day_08\bin\Debug\net8.0\2024_day_08.exe
+C:\Users\DanielM\Desktop\aoc\2024\2024_day_08\2024_day_08\bin\Debug\net8.0\2024_day_08.deps.json
+C:\Users\DanielM\Desktop\aoc\2024\2024_day_08\2024_day_08\bin\Debug\net8.0\2024_day_08.runtimeconfig.json
+C:\Users\DanielM\Desktop\aoc\2024\2024_day_08\2024_day_08\bin\Debug\net8.0\2024_day_08.dll
+C:\Users\DanielM\Desktop\aoc\2024\2024_day_08\2024_day_08\bin\Debug\net8.0\2024_day_08.pdb
+C:\Users\DanielM\Desktop\aoc\2024\2024_day_08\2024_day_08\obj\Debug\net8.0\2024_day_08.dll
+C:\Users\DanielM\Desktop\aoc\2024\2024_day_08\2024_day_08\obj\Debug\net8.0\refint\2024_day_08.dll
+C:\Users\DanielM\Desktop\aoc\2024\2024_day_08\2024_day_08\obj\Debug\net8.0\2024_day_08.pdb
+C:\Users\DanielM\Desktop\aoc\2024\2024_day_08\2024_day_08\obj\Debug\net8.0\2024_day_08.genruntimeconfig.cache
+C:\Users\DanielM\Desktop\aoc\2024\2024_day_08\2024_day_08\obj\Debug\net8.0\ref\2024_day_08.dll
