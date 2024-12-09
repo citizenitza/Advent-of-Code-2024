@@ -1,0 +1,14 @@
+C:\Users\DanielM\Desktop\aoc\2024\2024_day_09\2024_day_09\bin\Debug\net8.0\2024_day_09.exe
+C:\Users\DanielM\Desktop\aoc\2024\2024_day_09\2024_day_09\bin\Debug\net8.0\2024_day_09.deps.json
+C:\Users\DanielM\Desktop\aoc\2024\2024_day_09\2024_day_09\bin\Debug\net8.0\2024_day_09.runtimeconfig.json
+C:\Users\DanielM\Desktop\aoc\2024\2024_day_09\2024_day_09\bin\Debug\net8.0\2024_day_09.dll
+C:\Users\DanielM\Desktop\aoc\2024\2024_day_09\2024_day_09\bin\Debug\net8.0\2024_day_09.pdb
+C:\Users\DanielM\Desktop\aoc\2024\2024_day_09\2024_day_09\obj\Debug\net8.0\2024_day_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielM\Desktop\aoc\2024\2024_day_09\2024_day_09\obj\Debug\net8.0\2024_day_09.AssemblyInfoInputs.cache
+C:\Users\DanielM\Desktop\aoc\2024\2024_day_09\2024_day_09\obj\Debug\net8.0\2024_day_09.AssemblyInfo.cs
+C:\Users\DanielM\Desktop\aoc\2024\2024_day_09\2024_day_09\obj\Debug\net8.0\2024_day_09.csproj.CoreCompileInputs.cache
+C:\Users\DanielM\Desktop\aoc\2024\2024_day_09\2024_day_09\obj\Debug\net8.0\2024_day_09.dll
+C:\Users\DanielM\Desktop\aoc\2024\2024_day_09\2024_day_09\obj\Debug\net8.0\refint\2024_day_09.dll
+C:\Users\DanielM\Desktop\aoc\2024\2024_day_09\2024_day_09\obj\Debug\net8.0\2024_day_09.pdb
+C:\Users\DanielM\Desktop\aoc\2024\2024_day_09\2024_day_09\obj\Debug\net8.0\2024_day_09.genruntimeconfig.cache
+C:\Users\DanielM\Desktop\aoc\2024\2024_day_09\2024_day_09\obj\Debug\net8.0\ref\2024_day_09.dll
